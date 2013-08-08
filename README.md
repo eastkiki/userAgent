@@ -1,3 +1,7 @@
+~~~~~~
+move to (https://github.com/daumcorp/ua_parser)
+~~~~~~
+
 # userAgent
 
 check browser and browser's version from userAgent
