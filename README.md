@@ -1,9 +1,8 @@
-## userAgent repository was moved to the [ua_parse](https://github.com/daumcorp/ua_parser).
+# userAgent
 
+## userAgent repository was moved to the [ua_parse](https://github.com/daumcorp/ua_parser).
 move to [ua_parse](https://github.com/daumcorp/ua_parser)
 
-
-# userAgent
 
 check browser and browser's version from userAgent
 
